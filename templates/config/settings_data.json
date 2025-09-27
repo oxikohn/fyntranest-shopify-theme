@@ -1,0 +1,57 @@
+{
+  "current": {
+    "sections": {
+      "fyntranest-hero": {
+        "type": "fyntranest-hero",
+        "settings": {
+          "badge_text": "#1 IPL Cihazı 2024",
+          "heading": "İpeksi Pürüzsüz Cilt | Sonsuza Kadar",
+          "description": "Evde profesyonel kalitede IPL tüy alma deneyimi yaşayın. Ağrılı ağda seanslarına ve pahalı güzellik merkezlerine veda edin.",
+          "feature_1": "Profesyonel Sonuçlar",
+          "feature_2": "Hızlı 5 Dakika Seanslar",
+          "feature_3": "FDA Onaylı",
+          "button_text": "Şimdi Satın Al - 1.999 TL",
+          "button_link": "/collections/all",
+          "cta_note": "Türkiye'ye ücretsiz kargo",
+          "padding_top": 80,
+          "padding_bottom": 80
+        }
+      },
+      "fyntranest-problem-solution": {
+        "type": "fyntranest-problem-solution",
+        "blocks": {
+          "problem-1": {
+            "type": "problem",
+            "settings": {
+              "title": "Ağrılı Ağda Seansları",
+              "description": "Her 4-6 haftada bir dağınık, zaman alıcı ağda randevularında dayanılmaz acı çekin."
+            }
+          },
+          "solution-1": {
+            "type": "solution",
+            "settings": {
+              "title": "Ağrısız Tedavi",
+              "description": "Neredeyse ağrısız olan nazik IPL teknolojisi - sadece sıcak, karıncalanma hissi."
+            }
+          }
+        },
+        "block_order": [
+          "problem-1",
+          "solution-1"
+        ],
+        "settings": {
+          "heading": "Ağrılı ağda seanslarına ve pahalı güzellik merkezlerine veda edin",
+          "subheading": "Devrim niteliğindeki IPL teknolojisi ile tüy alma rutininizi dönüştürün",
+          "problems_title": "Eski Yöntem (Sorunlar)",
+          "solutions_title": "Bizim Çözümümüz",
+          "padding_top": 100,
+          "padding_bottom": 100
+        }
+      }
+    },
+    "content_for_index": [
+      "fyntranest-hero",
+      "fyntranest-problem-solution"
+    ]
+  }
+}
